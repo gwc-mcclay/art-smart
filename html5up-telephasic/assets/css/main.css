@@ -29,6 +29,10 @@
 	ol, ul {
 		list-style: none;
 	}
+	
+	ol.decimal{
+	  list-style: initial;
+	}
 
 	blockquote, q {
 		quotes: none;
